@@ -304,7 +304,7 @@
     "react-test-renderer": "17.0.2",
     "react-vis": "1.12.1",
     "react-window": "^1.8.6",
-    "read-pkg-up": "7.0.1",
+    "read-pkg-up": "10.1.0",
     "replace-in-file": "6.1.0",
     "request": "2.88.2",
     "request-promise-native": "1.0.9",
