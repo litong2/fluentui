@@ -342,7 +342,7 @@
     "tsconfig-paths-webpack-plugin": "4.1.0",
     "tslib": "2.6.3",
     "typescript": "5.3.3",
-    "vinyl": "2.2.0",
+    "vinyl": "3.0.1",
     "vite": "6.0.9",
     "webpack": "5.94.0",
     "webpack-bundle-analyzer": "4.10.1",
