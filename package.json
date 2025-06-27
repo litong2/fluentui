@@ -283,7 +283,7 @@
     "p-queue": "6.6.2",
     "parse-diff": "0.7.1",
     "path-browserify": "1.0.1",
-    "plop": "2.6.0",
+    "plop": "2.7.6",
     "portfinder": "1.0.28",
     "postcss": "8.4.31",
     "postcss-loader": "4.1.0",
