@@ -255,7 +255,7 @@
     "node-plop": "0.25.0",
     "nx": "20.8.1",
     "p-queue": "6.6.2",
-    "parse-diff": "0.7.1",
+    "parse-diff": "0.11.1",
     "patch-package": "8.0.0",
     "path-browserify": "1.0.1",
     "plop": "2.6.0",
